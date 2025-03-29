@@ -1,3 +1,5 @@
+[Table of Contents](https://github.com/drajaram614/SPLUNK/blob/main/README.md)
+
 # Understanding Searching Basics
 
 ## Time Picker
