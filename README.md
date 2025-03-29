@@ -1,3 +1,9 @@
+### Table of Contents
+
+1. **[Basic Searching in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/BasicSearching.md)**
+2. 
+
+
 # How to Setup Splunk & Upload Testing Data  
 
 ## Access Splunk Web  
