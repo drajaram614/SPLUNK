@@ -3,6 +3,7 @@
 1. **[Basic Searching in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/BasicSearching.md)**
 2. 
 
+![Logo](img/logo.jpg)
 
 # How to Setup Splunk & Upload Testing Data  
 
