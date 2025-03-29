@@ -1,7 +1,7 @@
 ### Table of Contents
 
-1. **[Basic Searching in Splunk]((https://github.com/drajaram614/SPLUNK/blob/main/md/BasicSearching.md))**
-2. **[Knowledge Objects in Splunk]((https://github.com/drajaram614/SPLUNK/blob/main/md/KnowledgeObjects.md))**
+1. **[Basic Searching in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/BasicSearching.md)**
+2. **[Knowledge Objects in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/KnowledgeObjects.md)**
 3. 
 
 ![Logo](img/logo.jpg)
