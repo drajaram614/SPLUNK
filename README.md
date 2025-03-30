@@ -2,7 +2,8 @@
 
 1. **[Basic Searching in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/BasicSearching.md)**
 2. **[Knowledge Objects in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/KnowledgeObjects.md)**
-3. 
+3. **[SPL in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/SPL.md)**
+4. **[Transaction in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/Transaction.md)**
 
 ![Logo](img/logo.jpg)
 
