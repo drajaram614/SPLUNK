@@ -5,7 +5,8 @@
 3. **[SPL in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/SPL.md)**
 4. **[Transaction in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/Transaction.md)**
 5. **[Understanding `eval`, `where`, and `search` in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/EvalWhereSearch.md)**
-5. **[Field Extraction in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/FieldExtraction.md)**
+6. **[Field Extraction in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/FieldExtraction.md)**
+7. **[Lookups in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/Lookups.md)**
 
 ![Logo](img/logo.jpg)
 
@@ -30,7 +31,7 @@ Install the following add-ons to ensure correct source typing and log parsing:
 Extract `zip` file from Splunk that contains:  
 - **Web logs** (`access.log`, `secure.log`) for `www1`, `www2`, `www3`  
 - **Cisco IronPort logs** (`cisco_ironport_web.log`)  
-- **Additional data** (`MOCK_DATA.csv`, used later)  
+- **Additional data** (`MOCK_DATA.csv`, used later for **[Lookups](https://github.com/drajaram614/SPLUNK/blob/main/md/Lookups.md)**)  
 
 > ✅These logs simulate real-world security events, providing a hands-on experience.  
 
