@@ -4,6 +4,8 @@
 2. **[Knowledge Objects in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/KnowledgeObjects.md)**
 3. **[SPL in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/SPL.md)**
 4. **[Transaction in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/Transaction.md)**
+5. **[Understanding `eval`, `where`, and `search` in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/EvalWhereSearch.md)**
+5. **[Field Extraction in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/FieldExtraction.md)**
 
 ![Logo](img/logo.jpg)
 
