@@ -1,6 +1,6 @@
 # Learning Splunk
 
-This repository documents my journey of learning and understanding **Splunk**, a powerful platform for searching, monitoring, and analyzing machine-generated data, with organized notes and examples on key features and concepts.
+This repository documents my journey of learning and understanding **Splunk**, a powerful platform/SIEM for searching, monitoring, and analyzing machine-generated data, with organized notes and examples on key features and concepts.
 ---
 ### Table of Contents
 
