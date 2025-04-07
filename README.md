@@ -7,6 +7,12 @@
 5. **[Understanding `eval`, `where`, and `search` in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/EvalWhereSearch.md)**
 6. **[Field Extraction in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/FieldExtraction.md)**
 7. **[Lookups in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/Lookups.md)**
+8. **[Charts in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/Charts.md)**
+9. **[Dashboards in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/Dashboards.md)**
+10. **[Reports and Drilldowns in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/Reports.md)**
+11. **[Alerts in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/Alerts.md)**
+
+
 
 ![Logo](img/logo.jpg)
 
