@@ -98,9 +98,3 @@ You open Wireshark →
 Splunk logs the event →  
 Your alert detects it →  
 It shows up in Triggered Alerts.
-
-Repeatable, simple, and perfect for building foundational SOC monitoring skills.
-
----
-
-Let me know if you'd like to add screenshots or turn this into a markdown file for GitHub.
