@@ -1,3 +1,7 @@
+# Learning Splunk
+
+This repository documents my journey of learning and understanding **Splunk**, a powerful platform for searching, monitoring, and analyzing machine-generated data, with organized notes and examples on key features and concepts.
+---
 ### Table of Contents
 
 1. **[Basic Searching in Splunk](https://github.com/drajaram614/SPLUNK/blob/main/md/BasicSearching.md)**
